@@ -1,4 +1,4 @@
-##5
+##5 Add new attributes inside countries which is number of people (find it on Wikipedia)
 
     col.update_one({'Name': 'USA'}, {'$set': {'Population': 330000000}})
     col.update_one({'Name': 'Morocco'}, {'$set': {'Population':25000000}})
