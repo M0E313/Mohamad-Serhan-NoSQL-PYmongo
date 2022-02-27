@@ -1,5 +1,5 @@
     
-##7
+##7 Get countries which have a ‘u’ in their name and more 100 000 people inside
 
 for continents in col.find({
         'Name':
